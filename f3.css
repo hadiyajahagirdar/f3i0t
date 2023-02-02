@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    .table2 th{
+        display: flex;
+        margin-top: 0px;
+    
+      }
+      .form-group container label {
+        margin-top: 100%;
+      }
+      h1{
+        text-align: center;
+      }
+      li{
+        text-align: center;
+        
+      }
+      li button{
+        background-color: aqua;
+        color:black;
+        
+        
+      }
+      li input{
+        background-color: aqua;
+        color:black
+      }
+      body{
+        background-color: bisque;
+      }
+      
